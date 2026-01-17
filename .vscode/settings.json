@@ -1,4 +1,5 @@
 {
+  "editor.formatOnSave": false,
   "cSpell.words": ["Vitesse"],
   "typescript.tsdk": "node_modules/typescript/lib",
   "vite.autoStart": false,
